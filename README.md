@@ -2,7 +2,7 @@
 
 [![header](./banner_1.png)](https://github.com/cunbex)
 
-<h3 align="center">A passionate Distrivuted systems and Networks Engineer & Back-end developer from Algeria</h3>
+<h3 align="center">A passionate Distributed systems and Networks Engineer & Back-end developer from Algeria</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cunbex&label=Profile%20views&color=0e75b6&style=flat" alt="cunbex" /> </p>
 

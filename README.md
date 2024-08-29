@@ -60,7 +60,6 @@
   
   [![Alacritty](https://img.shields.io/badge/alacritty-F46D01?style=for-the-badge&logo=alacritty&logoColor=white)](https://stackoverflow.com/users/12299287/cryptocode)
   [![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)](https://neovim.io/")
-  [![Neovim DOTFILES](https://img.shields.io/badge/Editor%20Config-E0EFEF?style=for-the-badge&logo=editorconfig&logoColor=000)](https://github.com/cunbex/Nvim)
   
   </td>
   </tr>

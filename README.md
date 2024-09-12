@@ -21,8 +21,7 @@
 - ⚡ Fun fact **The best way to learn a language is by writing unit tests !**
 
 ### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+I write some articles & posts in linkedin [HERE](https://www.linkedin.com/in/hamza-lagab-b14618249/recent-activity/all/), feel free to check em out
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Rust lang, Distributed systems, Cloud engineering & Machine learning**
 
-- 👨‍💻 All of my projects are available at [https://github.com/cunbex?tab=repositories](https://github.com/crabzie?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/crabzie?tab=repositories](https://github.com/crabzie?tab=repositories)
 
 - 💬 Ask me about **NodeJS, Linux, MQTT**
 

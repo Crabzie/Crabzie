@@ -1,18 +1,18 @@
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Rubik&weight=700&duration=8000&pause=500&color=AB9DF7&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Hamza+Lagab+(The+Pengiun+in+the+bed)" alt="Typing SVG" /></a></h1>
 
-[![header](./banner_1.png)](https://github.com/cunbex)
+[![header](./banner_1.png)](https://github.com/crabzie)
 
 <h3 align="center">Passionate Distributed systems and networks engineer && Back-end developer from Algeria</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cunbex&label=Profile%20views&color=0e75b6&style=flat" alt="cunbex" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=crabzie&label=Profile%20views&color=0e75b6&style=flat" alt="cunbex" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cunbex&theme=tokyonight&hide_border=true&count_private=true" alt="cunbex's trophies" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=crabzie&theme=tokyonight&hide_border=true&count_private=true" alt="cunbex's trophies" /></a> </p>
 
 - 🔭 I’m currently working on [Smart house IOT](https://github.com/cunbex/Smart-House-IOT)
 
 - 🌱 I’m currently learning **Rust lang, Distributed systems, Cloud engineering & Machine learning**
 
-- 👨‍💻 All of my projects are available at [https://github.com/cunbex?tab=repositories](https://github.com/cunbex?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/cunbex?tab=repositories](https://github.com/crabzie?tab=repositories)
 
 - 💬 Ask me about **NodeJS, Linux, MQTT**
 
@@ -66,6 +66,6 @@ I write some articles & posts in linkedin [HERE](https://www.linkedin.com/in/ham
 </div>
 <br>
 <hr>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=cunbex&show_icons=true&locale=en&theme=tokyonight&hide_border=true&count_private=true" alt="cunbex" /></p>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cunbex&theme=tokyonight&show_icons=true&hide_border=true&locale=en&layout=compact&count_private=true" alt="cunbex's languages" /></p>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=cunbex&theme=tokyonight&hide_border=true&count_private=true" alt="cunbex" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=crabzie&show_icons=true&locale=en&theme=tokyonight&hide_border=true&count_private=true" alt="cunbex" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=crabzie&theme=tokyonight&show_icons=true&hide_border=true&locale=en&layout=compact&count_private=true" alt="cunbex's languages" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=crabzie&theme=tokyonight&hide_border=true&count_private=true" alt="cunbex" /></p>

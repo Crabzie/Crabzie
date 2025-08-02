@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on Microservices, Cloud, IoT, Distributed systems
 
-- 🌱 I’m currently learning **Go lang, Distributed systems, Cloud engineering, Devops & CI/CD **
+- 🌱 I’m currently learning **Go lang, Distributed systems, Cloud engineering, Devops & CI/CD**
 
 - 👨‍💻 All of my projects are available at [https://github.com/crabzie?tab=repositories](https://github.com/crabzie?tab=repositories)
 

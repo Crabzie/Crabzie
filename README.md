@@ -8,15 +8,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=crabzie&theme=tokyonight&hide_border=true&count_private=true" alt="cunbex's trophies" /></a> </p>
 
-- 🔭 I’m currently working on [Smart house IOT](https://github.com/cunbex/Smart-House-IOT)
+- 🔭 I’m currently working on Microservices, Cloud, IoT, Distributed systems
 
-- 🌱 I’m currently learning **Rust lang, Distributed systems, Cloud engineering & Machine learning**
+- 🌱 I’m currently learning **Go lang, Distributed systems, Cloud engineering, Devops & CI/CD **
 
 - 👨‍💻 All of my projects are available at [https://github.com/crabzie?tab=repositories](https://github.com/crabzie?tab=repositories)
 
-- 💬 Ask me about **NodeJS, Linux, MQTT**
-
-- 📫 How to reach me **hamzalagab.tech@gmail.com** or via discord: **#f.b.i2834**
+- 📫 How to reach me **hamzalagab.tech@gmail.com** or via discord: **#crabziee**
 
 - ⚡ Fun fact **The best way to learn a language is by writing unit tests !**
 

@@ -1,4 +1,4 @@
-<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Rubik&weight=700&duration=8000&pause=500&color=AB9DF7&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Hamza+Lagab+(The+Pengiun+in+the+bed)" alt="Typing SVG" /></a></h1>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Rubik&weight=700&duration=8000&pause=500&color=AB9DF7&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Hamza+Lagab+(The+Pengiun+on+the+bed)" alt="Typing SVG" /></a></h1>
 
 [![header](./banner_1.png)](https://github.com/crabzie)
 

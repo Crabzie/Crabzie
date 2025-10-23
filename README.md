@@ -64,6 +64,6 @@ I write some articles & posts in linkedin [HERE](https://www.linkedin.com/in/ham
 </div>
 <br>
 <hr>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=crabzie&show_icons=true&locale=en&theme=tokyonight&hide_border=true&count_private=true" alt="cunbex" /></p>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=crabzie&theme=tokyonight&show_icons=true&hide_border=true&locale=en&layout=compact&count_private=true" alt="cunbex's languages" /></p>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=crabzie&theme=tokyonight&hide_border=true&count_private=true" alt="cunbex" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=crabzie&show_icons=true&locale=en&theme=tokyonight&hide_border=true&count_private=true" alt="a" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=crabzie&theme=tokyonight&show_icons=true&hide_border=true&locale=en&layout=compact&count_private=true" alt="b's languages" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=crabzie&theme=tokyonight&hide_border=true&count_private=true" alt="c" /></p>
